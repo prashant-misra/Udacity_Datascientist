@@ -40,3 +40,12 @@ The code was written in Python 3.6(Preferred version). Additional installations 
 ## Acknowledgements
 I got the data from Kaggle
 1. https://www.kaggle.com/airbnb/boston
+
+
+## Files Used from Source
+
+> lisings.csv
+
+> calender.csv
+
+> reviews.csv
