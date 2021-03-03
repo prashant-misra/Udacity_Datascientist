@@ -3,6 +3,12 @@
 The current Seattle Airbnb project is done as a part of Udacity Data Scientist Nanodegree.  The datasets for this project are collected form Kaggle repository. There are three data sets called reviews, listings and calendar and the data collected. 
 
 The aim of this project is to analyse the data sets and find out the answers for the following questions:
+# Questions analyzed:
+1)Achieving the best possible price for a given accommodation.
+2)Does the location has any effect on price
+3)Predicting the price using Machine Learning algorithms:
+
+
 This project is executed by the CRISP-DM mentioned in the Udacity tutorials. The following are the steps involved:
 
 1)Business Understanding
@@ -20,10 +26,6 @@ The code was written in Python 3.6(Preferred version). Additional installations 
 2)	Libraries of Python: numpy ,pandas ,sklearn, nltk, matplotlib, seaborn
 3)	Jyupiter Notebook
 
-# Questions analyzed:
-1)Achieving the best possible price for a given accommodation.
-2)Does the location has any effect on price
-3)Predicting the price using Machine Learning algorithms:
 
 # Answers Found:
 1) From the Accommodates Vs Price graphs and the correlation Heatmap, we can say that how many people the listing can accommodate is the main factor for price for that particular listing. Number of beds, bedrooms and bathrooms and guests included are also highly correlated. These are features of accommodation. These are the other features that can be considered.
